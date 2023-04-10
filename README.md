@@ -38,7 +38,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/sparrow9616/music_bot/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
